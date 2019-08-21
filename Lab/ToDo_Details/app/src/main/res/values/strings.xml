@@ -1,3 +1,24 @@
 <resources>
     <string name="app_name">ToDo_Details</string>
+    <string name="next">Next</string>
+    <string name="textview">TextView</string>
+    <string name="previous">Previous</string>
+
+    <string-array name="tasks">
+        <item>Wake up</item>
+        <item>Drink Coffee</item>
+        <item>Make at least a person laugh</item>
+        <item>Plant a tree</item>
+        <item>Ponder on duality of existence</item>
+        <item>Go to sleep</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>Get out of bed. Five am sounds good to me.</item>
+        <item>Get fresh by drinking coffee</item>
+        <item>Laughing is the best medicine</item>
+        <item>Do one good deed a day</item>
+        <item>Pondering on duality of existence</item>
+        <item>Time for bed, recharge required</item>
+    </string-array>
 </resources>
