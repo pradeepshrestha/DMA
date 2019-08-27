@@ -1,9 +1,0 @@
-<resources>
-    <string name="app_name">Project_ImplicitIntent</string>
-    <string name="txt1">http://android.developer.com</string>
-    <string name="btn1">Open Website</string>
-    <string name="txt2">The British College</string>
-    <string name="btn2">Open Location</string>
-    <string name="txt3">This is dell laptop</string>
-    <string name="btn3">Share this text</string>
-</resources>
