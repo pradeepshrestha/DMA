@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name ="myArray">
+        <item>Hey! There</item>
+        <item>Every great dream begins with a dreamer.-Harriet Tubman</item>
+        <item>I think in terms of evolutions, not revolutions. Failure is not part of my vocabulary.</item>
+        <item>If something is important enough, even if the odds are against you, you should still do it.-Elon Musk</item>
+        <item>You take your life in your own hands, and what happens? A terrible thing, no one to blame.</item>
+        <item>“Champions keep playing until they get it right.” -Billie Jean King</item>
+        <item>I never dreamt of success. I worked for it. -Este Lauder</item>
+        <item>People who say it cannot be done should not interrupt those who are doing it.</item>
+        <item>Please think about your legacy, because you’re writing it every day.-Gary Vaynerchuck</item>
+        <item>If you’re not a risk taker, you should get the hell out of business. -Ray Kroc</item>
+        <item>The worst thing about football is that you have to run a lot.</item>
+        <item>The best thing about being lazy is…Uh I am not going to reveal it.</item>
+        <item>The only thing with which an Engineer can\'t compromise is his sleep.</item>
+        <item>Running a startup is like eating glass. You just start to like the taste of your own blood. -Sean Parker</item>
+        <item>Timing, perseverance, and 10 years of trying will eventually make you look like an overnight success. -Biz Stone</item>
+        <item>An Apple a day keeps the doctors away. But yeah don\'t eat a dozen of them together</item>
+        <item>Data beats emotions. -Sean Rad</item>
+        <item>Any suggestions from you is highly recommended :-)</item>
+        <item>When you find an idea that you just can’t stop thinking about, that’s probably a good one to pursue.-Josh James</item>
+        <item>I hate those teachers who take their job very seriously.</item>
+        <item>I never took a day off in my 20s. Not one. -Bill Gates.</item>
+        <item>Well I am not stalking on you. So feel free to write anything.</item>
+        <item>I knew that if I failed I wouldn\’t regret that, but I knew the one thing I might regret is not trying.-Jeff Bezos</item>
+        <item>You can\’t make anything viral, but you can make something good. -Peter Shankman</item>
+        <item>The best time to plant a tree was 20 years ago. The second best time is now.</item>
+        <item>Never be ashamed! There’s some who will hold it against you, but they are not worth bothering with.</item>
+        <item>The best thing about DeathNote is....Everything.</item>
+        <item>Too-many Strings. Well I have got more in my pocket.</item>
+        <item>Any suggestion from you is highly welcome.</item>
+        </string-array>
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:id="@+id/cardview"
+        android:elevation="10dp"
+        android:background="@drawable/box"
+        android:layout_marginBottom="@dimen/fab_margin"
+        android:layout_gravity="center"
+        android:layout_height="100dp">
+
+    <RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+        <ImageView
+            android:layout_width="160dp"
+            android:layout_height="100dp"
+            android:src="@drawable/goals1"
+            android:scaleType="fitXY"
+            android:id="@+id/card_image"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:layout_toRightOf="@+id/card_image"
+            android:id="@+id/cardtext"
+            android:text="Grocery"
+            android:background="@drawable/box"
+            android:textColor="@android:color/holo_blue_dark"
+            android:textSize="15dp"
+            android:layout_centerVertical="true"
+            android:layout_centerHorizontal="true" />
+    </RelativeLayout>
+
+</android.support.v7.widget.CardView>
+
+</LinearLayout>
