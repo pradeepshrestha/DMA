@@ -1,8 +1,5 @@
 package com.allblue.kumarshashwat.anydo;
 
-/**
- * Created by Kumar Shashwat on 28-Sep-16.
- */
 import android.content.Context;
 import android.support.v7.widget.RecyclerView;
 import android.view.GestureDetector;

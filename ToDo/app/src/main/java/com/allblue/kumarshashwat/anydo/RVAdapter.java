@@ -10,9 +10,6 @@ import android.widget.TextView;
 
 import java.util.List;
 
-/**
- * Created by Kumar Shashwat on 26-Sep-16.
- */
 public class RVAdapter extends RecyclerView.Adapter<RVAdapter.CardViewHolder> {
 
     public class CardViewHolder extends RecyclerView.ViewHolder {
