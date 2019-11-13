@@ -1,0 +1,7 @@
+#Wed Nov 13 14:08:44 NPT 2019
+base.0=C\:\\Users\\pradi\\Desktop\\TBC\\theron_lite\\New folder\\Crunchyy\\TodoList\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=C\:\\Users\\pradi\\Desktop\\TBC\\theron_lite\\New folder\\Crunchyy\\TodoList\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex

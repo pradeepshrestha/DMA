@@ -1,0 +1,71 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.todolist"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\pradi\Desktop\TBC\theron_lite\New folder\Crunchyy\TodoList\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->C:\Users\pradi\Desktop\TBC\theron_lite\New folder\Crunchyy\TodoList\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+11-->C:\Users\pradi\Desktop\TBC\theron_lite\New folder\Crunchyy\TodoList\app\src\main\AndroidManifest.xml:5:5-81
+11-->C:\Users\pradi\Desktop\TBC\theron_lite\New folder\Crunchyy\TodoList\app\src\main\AndroidManifest.xml:5:22-78
+12
+13    <application
+13-->C:\Users\pradi\Desktop\TBC\theron_lite\New folder\Crunchyy\TodoList\app\src\main\AndroidManifest.xml:7:5-24:19
+14        android:allowBackup="true"
+14-->C:\Users\pradi\Desktop\TBC\theron_lite\New folder\Crunchyy\TodoList\app\src\main\AndroidManifest.xml:8:9-35
+15        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+15-->[com.android.support:support-compat:28.0.0] C:\Users\pradi\.gradle\caches\transforms-2\files-2.1\f14724208b5bfeeef0d6bdefe649bca7\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+16        android:debuggable="true"
+17        android:icon="@mipmap/ic_launcher"
+17-->C:\Users\pradi\Desktop\TBC\theron_lite\New folder\Crunchyy\TodoList\app\src\main\AndroidManifest.xml:9:9-43
+18        android:label="@string/app_name"
+18-->C:\Users\pradi\Desktop\TBC\theron_lite\New folder\Crunchyy\TodoList\app\src\main\AndroidManifest.xml:10:9-41
+19        android:roundIcon="@mipmap/ic_launcher_round"
+19-->C:\Users\pradi\Desktop\TBC\theron_lite\New folder\Crunchyy\TodoList\app\src\main\AndroidManifest.xml:11:9-54
+20        android:supportsRtl="true"
+20-->C:\Users\pradi\Desktop\TBC\theron_lite\New folder\Crunchyy\TodoList\app\src\main\AndroidManifest.xml:12:9-35
+21        android:testOnly="true"
+22        android:theme="@style/AppTheme" >
+22-->C:\Users\pradi\Desktop\TBC\theron_lite\New folder\Crunchyy\TodoList\app\src\main\AndroidManifest.xml:13:9-40
+23        <activity
+23-->C:\Users\pradi\Desktop\TBC\theron_lite\New folder\Crunchyy\TodoList\app\src\main\AndroidManifest.xml:14:9-15:67
+24            android:name="com.example.todolist.AddEditNoteActivity"
+24-->C:\Users\pradi\Desktop\TBC\theron_lite\New folder\Crunchyy\TodoList\app\src\main\AndroidManifest.xml:14:19-54
+25            android:parentActivityName="com.example.todolist.MainActivity" />
+25-->C:\Users\pradi\Desktop\TBC\theron_lite\New folder\Crunchyy\TodoList\app\src\main\AndroidManifest.xml:15:13-55
+26        <activity
+26-->C:\Users\pradi\Desktop\TBC\theron_lite\New folder\Crunchyy\TodoList\app\src\main\AndroidManifest.xml:16:9-23:20
+27            android:name="com.example.todolist.MainActivity"
+27-->C:\Users\pradi\Desktop\TBC\theron_lite\New folder\Crunchyy\TodoList\app\src\main\AndroidManifest.xml:16:19-47
+28            android:launchMode="singleTop" >
+28-->C:\Users\pradi\Desktop\TBC\theron_lite\New folder\Crunchyy\TodoList\app\src\main\AndroidManifest.xml:17:13-43
+29            <intent-filter>
+29-->C:\Users\pradi\Desktop\TBC\theron_lite\New folder\Crunchyy\TodoList\app\src\main\AndroidManifest.xml:18:13-22:29
+30                <action android:name="android.intent.action.MAIN" />
+30-->C:\Users\pradi\Desktop\TBC\theron_lite\New folder\Crunchyy\TodoList\app\src\main\AndroidManifest.xml:19:17-69
+30-->C:\Users\pradi\Desktop\TBC\theron_lite\New folder\Crunchyy\TodoList\app\src\main\AndroidManifest.xml:19:25-66
+31
+32                <category android:name="android.intent.category.LAUNCHER" />
+32-->C:\Users\pradi\Desktop\TBC\theron_lite\New folder\Crunchyy\TodoList\app\src\main\AndroidManifest.xml:21:17-77
+32-->C:\Users\pradi\Desktop\TBC\theron_lite\New folder\Crunchyy\TodoList\app\src\main\AndroidManifest.xml:21:27-74
+33            </intent-filter>
+34        </activity>
+35
+36        <provider
+36-->[android.arch.lifecycle:extensions:1.1.1] C:\Users\pradi\.gradle\caches\transforms-2\files-2.1\4248c72111b6a9be638f2e89dcd4903c\extensions-1.1.1\AndroidManifest.xml:23:9-27:43
+37            android:name="android.arch.lifecycle.ProcessLifecycleOwnerInitializer"
+37-->[android.arch.lifecycle:extensions:1.1.1] C:\Users\pradi\.gradle\caches\transforms-2\files-2.1\4248c72111b6a9be638f2e89dcd4903c\extensions-1.1.1\AndroidManifest.xml:24:13-83
+38            android:authorities="com.example.todolist.lifecycle-trojan"
+38-->[android.arch.lifecycle:extensions:1.1.1] C:\Users\pradi\.gradle\caches\transforms-2\files-2.1\4248c72111b6a9be638f2e89dcd4903c\extensions-1.1.1\AndroidManifest.xml:25:13-68
+39            android:exported="false"
+39-->[android.arch.lifecycle:extensions:1.1.1] C:\Users\pradi\.gradle\caches\transforms-2\files-2.1\4248c72111b6a9be638f2e89dcd4903c\extensions-1.1.1\AndroidManifest.xml:26:13-37
+40            android:multiprocess="true" />
+40-->[android.arch.lifecycle:extensions:1.1.1] C:\Users\pradi\.gradle\caches\transforms-2\files-2.1\4248c72111b6a9be638f2e89dcd4903c\extensions-1.1.1\AndroidManifest.xml:27:13-40
+41    </application>
+42
+43</manifest>
